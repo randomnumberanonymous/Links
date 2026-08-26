@@ -10,3 +10,6 @@ Links to various things.
 # Gustavo Pezzi's coourses:
 - [Pikuma.com his courses website](https://pikuma.com)
 - [Free Coding Camp Course: Low-Level Graphics in C – Pixel Manipulation and Frame Buffers ](https://www.youtube.com/watch?v=wDWKUvTKCaw)
+
+# Latex
+- [Comprehensive Latex Course](https://www.youtube.com/watch?v=4lKbesI5eLI)
